@@ -1,0 +1,114 @@
+body{
+    background-color: rgb(241, 135, 152);
+}
+#heading{
+    font-weight: 400;
+    text-align: center;
+    color: antiquewhite;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+
+}
+#form{
+
+    color: rgb(13, 12, 11);
+    width: 600px;
+    height: 20px;
+}
+#label{
+    font-size: 20px;
+    font-weight: 500,bold;
+    color: black;
+
+}
+
+#input{
+    margin: auto;
+    padding: 10px;
+    color: black;
+    border-radius: 10px;
+    border-color: blueviolet;
+
+}
+#division{
+    border-radius: 20px;
+    background-color: aliceblue;
+    color: black;
+    height: 450px;
+    width: 400px;
+    text-align: left;
+    position: relative;
+}
+h4{
+    text-decoration: underline;
+    font-size: large;
+    text-align: center;
+    font-weight:bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+#submit{
+    background-color: blueviolet;
+    color: antiquewhite;
+    border-radius: 5px;
+}
+.purchased {
+    text-decoration: line-through; 
+    color: gray; }
+    body{
+        background-color: rgb(241, 135, 152);
+    }
+    #heading{
+        font-weight: 400;
+        text-align: center;
+        color: antiquewhite;
+        font-family:Georgia, 'Times New Roman', Times, serif ;
+    
+    }
+    #form{
+    
+        color: rgb(13, 12, 11);
+        width: 600px;
+        height: 20px;
+    }
+    #label{
+        font-size: 20px;
+        font-weight: 500,bold;
+        color: black;
+    
+    }
+    
+    #input{
+        margin: auto;
+        padding: 10px;
+        color: black;
+        border-radius: 10px;
+        border-color: blueviolet;
+    
+    }
+    #division{
+        border-radius: 20px;
+        background-color: aliceblue;
+        color: black;
+        height: 450px;
+        width: 400px;
+        text-align: left;
+        position: relative;
+    }
+    h4{
+        text-decoration: underline;
+        font-size: large;
+        text-align: center;
+        font-weight:bold;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    }
+    
+    #submit{
+        background-color: blueviolet;
+        color: antiquewhite;
+        border-radius: 5px;
+    }
+    .purchased {
+        text-decoration: line-through; 
+        color: gray; }
