@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(241, 135, 152);
+    background-color: rgb(135, 146, 241);
 }
 #heading{
     font-weight: 400;
@@ -10,14 +10,14 @@ body{
 }
 #form{
 
-    color: rgb(13, 12, 11);
+    color: rgb(13, 11, 11);
     width: 600px;
     height: 20px;
 }
 #label{
     font-size: 20px;
     font-weight: 500,bold;
-    color: black;
+    color: #bc8fa9;
 
 }
 
